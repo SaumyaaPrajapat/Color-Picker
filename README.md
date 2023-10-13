@@ -1,3 +1,5 @@
+<img width="956" alt="Color picker" src="https://github.com/SaumyaaPrajapat/Color-Picker/assets/103128269/60533ab7-efb6-4b92-90e7-c8f79c7c91ff">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
